@@ -1,0 +1,5 @@
+global adb_auto_enabled 0
+global adb_auto_connect_enabled 0
+global adb_auto_wireless_enabled 0
+global auto_adb_enabled 0
+global auto_connect_adb_ebabled 0
