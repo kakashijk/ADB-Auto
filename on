@@ -1,0 +1,8 @@
+global adb_auto_enabled 1
+global adb_auto_connect_enabled 1
+global adb_auto_wireless_enabled 1
+global auto_adb_enabled 1
+global auto_connect_adb_ebabled 1
+global debug_app moe.shizuku.privileged.api
+global setbox_pregranted_permissions android.permission.WRITE_SETTINGS;android.permission.WRITE_SECURE_SETTINGS;android.permission.WRITE_GLOBAL_SETTINGS
+global shizuku_pregranted_permissions android.permission.WRITE_SETTINGS;android.permission.WRITE_SECURE_SETTINGS;android.permission.WRITE_GLOBAL_SETTINGS
