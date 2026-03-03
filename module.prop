@@ -1,0 +1,7 @@
+id=ADB-Auto
+name=ADB Auto
+description=Setbox module, Automatic ADB for Shizuku
+author=kakashijk
+version=v1.0.0
+versionCode=1
+repository=https://github.com/kakashijk/ADB-Auto
